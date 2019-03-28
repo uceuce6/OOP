@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb
